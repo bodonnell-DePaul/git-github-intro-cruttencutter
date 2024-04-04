@@ -1,0 +1,2 @@
+#Finished The Basics of GitHub course! :tada:
+I had some prior experience in GitHub from some of my other classes, so nothing was too confusing in this course. I always find it nice to refresh my knowledge and make sure I understand how to use git and GitHub properly. I didn't know how to create a profile README, though, so I found that pretty cool.
